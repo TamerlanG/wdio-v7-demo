@@ -28,8 +28,8 @@ export const config: WebdriverIO.Config = {
         // 'path/to/excluded/files'
     ],
     runner: 'local',
-    hostname: '172.17.0.2',
-    port: 30001,
+    hostname: 'localhost',
+    port: 4444,
     path: '/wd/hub/',
     //
     // ============
