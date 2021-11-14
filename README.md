@@ -24,6 +24,7 @@ npm install
 ### Running Tests
 #### Docker
 If your using the new apple silicon, use the docker-compose.arm.yml configs instead.
+For VNC, the password is secret
 ````
 docker-compose up -d 
 npm test
