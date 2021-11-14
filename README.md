@@ -40,4 +40,5 @@ Currently reports only work with docker, once you run the tests you should have 
 http://localhost:5050/generate-report
 
 To view the latest report, go to:
+
 http://localhost:5050/latest-report
