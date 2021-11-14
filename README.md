@@ -4,7 +4,6 @@
 
 ``` 
 git clone https://github.com/TamerlanG/wdio-v7-demo.git 
-
 ```
 
 2. Install Dependencies
