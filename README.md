@@ -1,4 +1,14 @@
 ## WebdriverIO Docker + Kubernetes Demo
+
+### Prereqsuities
+
+- NodeJS
+- NPM or YARN
+- Docker
+- Docker-Compose 
+- Minikube
+- Kubectl
+
 ### Installation
 1. Clone the Repository
 
