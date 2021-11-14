@@ -23,6 +23,7 @@ npm install
 
 ### Running Tests
 #### Docker
+If your using the new apple silicon, use the docker-compose.arm.yml configs instead.
 ````
 docker-compose up -d 
 npm test
