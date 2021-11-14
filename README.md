@@ -33,3 +33,11 @@ Once you have that done, you can run the tests using:
 ````
 npm test
 ````
+
+### Reporting
+Currently reports only work with docker, once you run the tests you should have a folder called allure-results. To view the results we have to generate a report from it, you can do that easily with simply going to this url. 
+
+http://localhost:5050/generate-report
+
+To view the latest report, go to:
+http://localhost:5050/latest-report
